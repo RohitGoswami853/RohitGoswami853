@@ -1,26 +1,51 @@
 
 
+![](coding.gif)
+# Hi✋, I am Rohit Goswami
 
-<img src="https://tenor.com/en-GB/view/coding-gif-25731151">
+Welcome to my GitHub landing page! This repository serves as a showcase for my work as a Data Scientist and Software Developer. Here you will find a collection of projects, code samples, and tools that demonstrate my works on machine learning, data analysis, python, javascript, HTML, CSS, and various other frameworks.
 
 
-<h1 align="center">Hi 👋, I'm Rohit Goswami</h1>
-<h3 align="center">The next best data scientist and software developer.</h3>
-<img src="https://tenor.com/en-GB/view/gaming-gif-gif-19995452" align="right" width=400>
 
-- 🌱 I’m currently learning **Artificial Intelligence and Deep Learning**
+![](man.gif)
+## ABOUT ME 
+I am a passionate and experienced Data Scientist and Software Developer with a strong focus on utilizing data-driven approaches to solve complex problems. I have a solid foundation in machine learning algorithms, statistical analysis, and data visualization techniques. Alongside my technical skills, I am also proficient in Python, HTML, CSS and Javascript allowing me to create interactive and visually appealing data products.
 
-- 💬 Ask me about **Machine Learning, Exploratory Data Analysis, Advance Excel**
+### Some of my favourite frameworks
+![Pandas](https://via.placeholder.com/1000x200?text=App+Screenshot+Here) 
 
-- 📫 How to reach me **rohitgo853@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## Skills
+Machine Learning: I possess a deep understanding of various machine learning algorithms and techniques, and I have hands-on experience in developing models for classification, regression, clustering, and natural language processing (NLP) tasks using Python.
+Data Analysis: I excel at extracting insights from data through exploratory data analysis (EDA), statistical analysis, and visualization. I am skilled in using tools like Excel, SPSS, and Power BI to uncover patterns, trends, and correlations within datasets.
+Advanced Excel: I have mastered the use of Excel for data manipulation, cleansing, and analysis. I am proficient in creating complex formulas, pivot tables, charts, and macros to transform raw data into meaningful insights.
+Web Development: I have a strong command of HTML and CSS, enabling me to create visually appealing and user-friendly web interfaces for data visualization and interactive dashboards.
+Programming Languages: My favorite programming languages are Python, JavaScript, and C. I am comfortable working with these languages and leverage their capabilities to develop efficient and robust software solutions.
+Tools: I am proficient in using a range of tools, including Visual Studio Code (VSCode), Excel, Power BI, and SPSS, to streamline my development and analysis processes.
+Projects
+Here are some notable projects that highlight my skills and expertise:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+Project 1: Machine Learning Model for Sentiment Analysis
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitgoswami853&show_icons=true&locale=en&layout=compact" alt="rohitgoswami853" /></p>
+Developed a sentiment analysis model using natural language processing (NLP) techniques in Python.
+Utilized a combination of feature engineering, text preprocessing, and machine learning algorithms to classify sentiments accurately.
+Achieved an accuracy rate of 90% on a labeled sentiment dataset.
+Project 2: Interactive Data Visualization Dashboard
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitgoswami853&show_icons=true&locale=en" alt="rohitgoswami853" /></p>
+Created an interactive dashboard using HTML, CSS, and JavaScript to visualize and explore a large dataset.
+Implemented various charts, filters, and interactive elements to allow users to analyze and manipulate the data dynamically.
+Integrated the dashboard with a backend server to fetch and update data in real-time.
+Project 3: Excel Automation Tool
+
+Developed a VBA-based Excel automation tool to streamline data processing tasks.
+Automated data cleaning, transformation, and report generation procedures, reducing manual effort by 80%.
+Implemented user-friendly interfaces and error handling mechanisms to enhance usability.
+Feel free to explore the repository to delve deeper into these projects and discover more of my work.
+
+Contact Me
+I am open to collaboration and exciting opportunities. If you have any questions, suggestions, or would like to discuss a potential project, feel free to reach out to me via email at rohitgo853@gmail.com.
+
+Thank you for visiting my GitHub landing page!
+
+Best regards,
+Rohit Goswami
