@@ -7,7 +7,7 @@ Welcome to my GitHub landing page! This repository serves as a showcase for my w
 
 
 
-![](me.gif)
+![](aboutUS.gif)
 ## ABOUT ME 
 I am a passionate and experienced Data Scientist and Software Developer with a strong focus on utilizing data-driven approaches to solve complex problems. I have a solid foundation in machine learning algorithms, statistical analysis, and data visualization techniques. Alongside my technical skills, I am also proficient in Python, HTML, CSS and Javascript allowing me to create interactive and visually appealing data products.
 
