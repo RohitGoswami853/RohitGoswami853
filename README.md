@@ -9,21 +9,19 @@ Welcome to my GitHub landing page! This repository serves as a showcase for my w
 
 
 ## ABOUT ME 
-<div style="display:flex">
-  <div>
+<div style="display:flex; flex-direction:row">
+  
 💼 I am currently pursuing my B.Sc in Data Science and have a Diploma in Software Development. 
-    
-    
+     
 🤖 I have a solid foundation in machine learning algorithms, statistical analysis, and data visualization techniques. 
 
 💡 Alongside my technical skills, I am also proficient in Python, HTML, CSS and Javascript allowing me to create interactive and visually appealing data products.
 
 📈 Currently I'm learning about AI and Deep Learning techniques.
-  </div>
-<div >
+  
+
   <img src="aboutUS.gif" alt="Image" width="400">
-</div>
-</div>
+
 
 # Skills
 
