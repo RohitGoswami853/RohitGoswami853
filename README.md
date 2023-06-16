@@ -1,48 +1,50 @@
 
 
 ![](cover.gif)
-#                                                                      Hi✋, I am Rohit Goswami
+# Hi✋, I am Rohit Goswami
 
 Welcome to my GitHub landing page! This repository serves as a showcase for my work as a Data Scientist and Software Developer. Here you will find a collection of projects, code samples, and tools that demonstrate my works on machine learning, data analysis, python, javascript, HTML, CSS, and various other frameworks.
 
 
 
-![](aboutUS.gif)
+![](aboutus.gif)
 ## ABOUT ME 
 I am a passionate and experienced Data Scientist and Software Developer with a strong focus on utilizing data-driven approaches to solve complex problems. I have a solid foundation in machine learning algorithms, statistical analysis, and data visualization techniques. Alongside my technical skills, I am also proficient in Python, HTML, CSS and Javascript allowing me to create interactive and visually appealing data products.
 
-### Some of my favourite frameworks
-![Pandas](https://via.placeholder.com/1000x200?text=App+Screenshot+Here) 
-
-
 ## Skills
-Machine Learning: I possess a deep understanding of various machine learning algorithms and techniques, and I have hands-on experience in developing models for classification, regression, clustering, and natural language processing (NLP) tasks using Python.
-Data Analysis: I excel at extracting insights from data through exploratory data analysis (EDA), statistical analysis, and visualization. I am skilled in using tools like Excel, SPSS, and Power BI to uncover patterns, trends, and correlations within datasets.
-Advanced Excel: I have mastered the use of Excel for data manipulation, cleansing, and analysis. I am proficient in creating complex formulas, pivot tables, charts, and macros to transform raw data into meaningful insights.
-Web Development: I have a strong command of HTML and CSS, enabling me to create visually appealing and user-friendly web interfaces for data visualization and interactive dashboards.
-Programming Languages: My favorite programming languages are Python, JavaScript, and C. I am comfortable working with these languages and leverage their capabilities to develop efficient and robust software solutions.
-Tools: I am proficient in using a range of tools, including Visual Studio Code (VSCode), Excel, Power BI, and SPSS, to streamline my development and analysis processes.
-Projects
-Here are some notable projects that highlight my skills and expertise:
 
-Project 1: Machine Learning Model for Sentiment Analysis
+### Languages
 
-Developed a sentiment analysis model using natural language processing (NLP) techniques in Python.
-Utilized a combination of feature engineering, text preprocessing, and machine learning algorithms to classify sentiments accurately.
-Achieved an accuracy rate of 90% on a labeled sentiment dataset.
-Project 2: Interactive Data Visualization Dashboard
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-Created an interactive dashboard using HTML, CSS, and JavaScript to visualize and explore a large dataset.
-Implemented various charts, filters, and interactive elements to allow users to analyze and manipulate the data dynamically.
-Integrated the dashboard with a backend server to fetch and update data in real-time.
-Project 3: Excel Automation Tool
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-Developed a VBA-based Excel automation tool to streamline data processing tasks.
-Automated data cleaning, transformation, and report generation procedures, reducing manual effort by 80%.
-Implemented user-friendly interfaces and error handling mechanisms to enhance usability.
-Feel free to explore the repository to delve deeper into these projects and discover more of my work.
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Contact Me
+[Certification link: Mongodb University](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/0a82e84e-d3c7-529c-b06c-1b0ad5c5b329-rohit-goswami-c548a69b-8588-5727-a6f9-5eef2eb9d005-certificate.pdf)
+
+### Machine Learning/Deep Learning
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![](seaborn.png)
+
+### Frameworks
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+### DV tools
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+## Contact Me
 I am open to collaboration and exciting opportunities. If you have any questions, suggestions, or would like to discuss a potential project, feel free to reach out to me via email at rohitgo853@gmail.com.
 
 Thank you for visiting my GitHub landing page!
