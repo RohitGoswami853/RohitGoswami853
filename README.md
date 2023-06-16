@@ -1,13 +1,13 @@
 
 
-![](Cover.gif)
+![](cover.gif)
 #                                                                      Hi✋, I am Rohit Goswami
 
 Welcome to my GitHub landing page! This repository serves as a showcase for my work as a Data Scientist and Software Developer. Here you will find a collection of projects, code samples, and tools that demonstrate my works on machine learning, data analysis, python, javascript, HTML, CSS, and various other frameworks.
 
 
 
-![](about.gif)
+![](me.gif)
 ## ABOUT ME 
 I am a passionate and experienced Data Scientist and Software Developer with a strong focus on utilizing data-driven approaches to solve complex problems. I have a solid foundation in machine learning algorithms, statistical analysis, and data visualization techniques. Alongside my technical skills, I am also proficient in Python, HTML, CSS and Javascript allowing me to create interactive and visually appealing data products.
 
