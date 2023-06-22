@@ -42,7 +42,8 @@ Welcome to my GitHub landing page! This repository serves as a showcase for my w
 [Certification link: Mongodb University](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/0a82e84e-d3c7-529c-b06c-1b0ad5c5b329-rohit-goswami-c548a69b-8588-5727-a6f9-5eef2eb9d005-certificate.pdf)
 
 ### Machine Learning/Deep Learning
-
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -59,10 +60,10 @@ Welcome to my GitHub landing page! This repository serves as a showcase for my w
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ## Contact Me
-I am open to collaboration and exciting opportunities. If you have any questions, suggestions, or would like to discuss a potential project, feel free to reach out to me via email at rohitgo853@gmail.com.
+I am open to collaboration and exciting opportunities. If you have any questions, suggestions, or would like to discuss a potential project, feel free to reach out to me : rohitgo853@gmail.com
 
-Thank you for visiting my GitHub landing page!
 
-Best regards,
+##
+### Thank you for visiting my GitHub landing page!
+##
 
-Rohit Goswami
