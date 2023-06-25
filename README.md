@@ -64,6 +64,6 @@ I am open to collaboration and exciting opportunities. If you have any questions
 
 
 ##
-### Thank you for visiting my GitHub landing page!
-##
+# Thank you for visiting my GitHub landing page!
+
 
