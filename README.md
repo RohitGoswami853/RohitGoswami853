@@ -37,6 +37,7 @@ Welcome to my GitHub landing page! This repository serves as a showcase for my w
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 [Certification link: Mongodb University](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/0a82e84e-d3c7-529c-b06c-1b0ad5c5b329-rohit-goswami-c548a69b-8588-5727-a6f9-5eef2eb9d005-certificate.pdf)
