@@ -3,7 +3,7 @@
 ![](cover.gif)
 # Hi✋, I am Rohit Goswami
 
-Welcome to my GitHub landing page! This repository serves as a showcase for my work as a Data Scientist and Software Developer. Here you will find a collection of projects, code samples, and tools that demonstrate my works on MACHINE LEARNING, PYTHON, JAVASCRIPT, HTML, CSS, and various other frameworks.
+Welcome to my GitHub landing page! This repository serves as a showcase for my work as a Data Scientist and Frontend Web Developer. Here you will find a collection of projects, code samples, and tools that demonstrate my works on DEEP LEARNING, MACHINE LEARNING, PYTHON, JAVASCRIPT, HTML, CSS, and various other frameworks.
 
 
 
@@ -50,12 +50,11 @@ Welcome to my GitHub landing page! This repository serves as a showcase for my w
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![](seaborn.png)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-### Frameworks
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
 
 ### DV tools
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
